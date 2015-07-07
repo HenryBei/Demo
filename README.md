@@ -1,3 +1,4 @@
 # Demo
-try to use github\n
+try to use github
+
 I think it done~
